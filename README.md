@@ -1,2 +1,3 @@
-# ptolemynet
-Ptolemy Net (artificial neural network experiment)
+# PtolemyNet
+
+Documentation to follow...
